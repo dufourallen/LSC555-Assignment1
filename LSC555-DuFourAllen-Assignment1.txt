@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LSC 555 Assignment 1 - DuFour Allen</title>
+	
+	<style>
+		body {background-color:Yellow;border: 2px solid blue;}
+		h1{text-align:center;font-family:"Comic Sans";}
+		h2{text-align:center;font-family:"Comic Sans";}
+	</style>
+
+</head>
+
+<body>
+	<h1>The Smithsonian Library System Introduction</h1>
+	
+		<h2>Context</h2>
+	
+		<h2>Users</h2>
+	
+		<h2>Content</h2>
+	
+	<h1>The Discussion</h1>
+	
+		<h2>Interesting Features</h2>
+	
+		<h2>Pros and Cons</h2>
+	
+		<h2>Suggestions for Improvement</h2>
+
+</body>
+
+</html> 
